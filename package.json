@@ -22,11 +22,11 @@
   },
   "devDependencies": {
     "@gaincompliance/eslint-config": "1.0.14",
-    "@gaincompliance/remark-preset-lint": "^1.0.1",
+    "@gaincompliance/remark-preset-lint": "^1.0.2",
     "ban-sensitive-files": "^1.9.2",
-    "commitlint-config-gain": "^1.0.14",
-    "cz-conventional-changelog": "^3.0.0",
-    "husky": "^3.0.0",
+    "commitlint-config-gain": "^1.0.17",
+    "cz-conventional-changelog": "^3.0.2",
+    "husky": "^3.0.3",
     "npm-run-all": "^4.1.5",
     "remark-cli": "^7.0.0",
     "travis-lint": "^1.0.0"
